@@ -5,7 +5,7 @@ import Login from './pages/Login'
 import Register from './pages/Register'
 import Feed from './pages/Feed'
 
-import Navbar from './components/Navbar'
+import Navbar from './components/NavBar'
 
 import { useUser } from './context/UserContext'
 
